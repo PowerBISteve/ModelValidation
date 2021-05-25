@@ -1,7 +1,7 @@
 # ModelValidation
 Model validation for DAX measures
 
-Please put in C:\temp or change the JSON folder\
+Please put in C:\temp or change the JSON folder
 
 This is in progress and may not be fully functional.
 
