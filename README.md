@@ -11,10 +11,10 @@ The tool will validate your current model against validated numbers stored in a 
 The validation file should be a csv with the headers: \
 -ID \
 -Measure \
--Value \
+-Value 
 
-ID is a reference. Measure should be the measure validating. Value is the validated value.
-The remaining columns should be in format table9coulmn0 e.g. Product[Category]
+ID is a reference. Measure should be the measure validating. Value is the validated value.\
+The remaining columns should be in format table[coulmn] e.g. Product[Category]\
 Fill in the values for a filter or leave blank to not apply filter.
 
 Example:
